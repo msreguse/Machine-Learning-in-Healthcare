@@ -11,4 +11,3 @@ scikit-learn
 statsmodels
 tensorflow-gpu
 keras-gpu
-
