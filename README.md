@@ -1,17 +1,17 @@
 # Machine Learning in Healthcare
 
-## Project Overview
-This serves as a tutorial on how to apply machine learning for regression and classification applications using healthcare data.
-This project comprises of two tasks.
-**Task 1**
-This task involves the estimation of length of stay using a subset of MIMIC III data.
-The derived subset is *task1.csv*
-This is a regression problem
-**Task 2**
-This task involves the prediction of hospital readmission for diabetic patients.
-The data used is derived from *Diabetes 130-US hospitals for years 1999-2008 Data Set*
-The derived subset is *task2.csv*
-This is a classification problem
+## Project Overview <br>
+This serves as a tutorial on how to apply machine learning for regression and classification applications using healthcare data. <br>
+This project comprises of two tasks. <br>
+**Task 1** <br>
+This task involves the estimation of length of stay using a subset of MIMIC III data. <br>
+The derived subset is *task1.csv* <br>
+This is a regression problem <br>
+**Task 2** <br>
+This task involves the prediction of hospital readmission for diabetic patients. <br>
+The data used is derived from *Diabetes 130-US hospitals for years 1999-2008 Data Set* <br>
+The derived subset is *task2.csv* <br>
+This is a classification problem <br>
 
 ## Environment Setup
 Refer ***ML_tutorial.pdf*** to set up the environment for this tutorial.
