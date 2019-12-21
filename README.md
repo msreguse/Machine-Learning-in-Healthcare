@@ -13,14 +13,14 @@ The data used is derived from *Diabetes 130-US hospitals for years 1999-2008 Dat
 The derived subset is *task2.csv* <br>
 This is a classification problem <br>
 
-## Environment Setup
-Refer ***ML_tutorial.pdf*** to set up the environment for this tutorial.
+## Environment Setup  <br>
+Refer ***ML_tutorial.pdf*** to set up the environment for this tutorial.  <br>
 
-## Code
-The notebook : ***ML_tutorial.ipynb*** contains all the code.
+## Code  <br>
+The notebook : ***ML_tutorial.ipynb*** contains all the code.  <br>
 
-## References
+## References  <br>
 
-This project is heavily based off these two links:
-https://towardsdatascience.com/predicting-hospital-length-of-stay-at-time-of-admission-55dfdfe69598
-https://towardsdatascience.com/predicting-hospital-readmission-for-patients-with-diabetes-using-scikit-learn-a2e359b15f0
+This project is heavily based off these two links:  <br>
+https://towardsdatascience.com/predicting-hospital-length-of-stay-at-time-of-admission-55dfdfe69598  <br>
+https://towardsdatascience.com/predicting-hospital-readmission-for-patients-with-diabetes-using-scikit-learn-a2e359b15f0  <br>
